@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpeedTrapFunctions", "SpeedTrapFunctions\SpeedTrapFunctions.vcxproj", "{13463900-DD7D-4F12-BEC8-BD3F7BFDA6DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13463900-DD7D-4F12-BEC8-BD3F7BFDA6DB}.Debug|x64.ActiveCfg = Debug|x64
+		{13463900-DD7D-4F12-BEC8-BD3F7BFDA6DB}.Debug|x64.Build.0 = Debug|x64
+		{13463900-DD7D-4F12-BEC8-BD3F7BFDA6DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{13463900-DD7D-4F12-BEC8-BD3F7BFDA6DB}.Debug|x86.Build.0 = Debug|Win32
+		{13463900-DD7D-4F12-BEC8-BD3F7BFDA6DB}.Release|x64.ActiveCfg = Release|x64
+		{13463900-DD7D-4F12-BEC8-BD3F7BFDA6DB}.Release|x64.Build.0 = Release|x64
+		{13463900-DD7D-4F12-BEC8-BD3F7BFDA6DB}.Release|x86.ActiveCfg = Release|Win32
+		{13463900-DD7D-4F12-BEC8-BD3F7BFDA6DB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E564680B-8921-4F2E-B0BC-B7E241162D5B}
+	EndGlobalSection
+EndGlobal
